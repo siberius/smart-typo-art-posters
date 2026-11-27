@@ -2,7 +2,11 @@
 
 > Article and context on Vibemaker: [Giant Typographic Poster Art Director](https://vibemaker.cz/clanek/typo-art-postery/)
 
-[![Giant Typographic Poster Art Director](docs/nahled.gif)](https://vibemaker.cz/clanek/typo-art-postery/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/typo-art-postery/">
+    <img src="docs/nahled.gif" alt="Giant Typographic Poster Art Director">
+  </a>
+</p>
 
 [Česky](README.cs.md)
 
