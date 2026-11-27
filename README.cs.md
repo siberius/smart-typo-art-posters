@@ -1,5 +1,9 @@
 # Smart Prompt: Art Director pro obří typografické plakáty
 
+> Online článek a kontext na Vibemaker: [Art Director: Giant Typographic Poster](https://vibemaker.cz/clanek/typo-art-postery/)
+
+[![Art Director: Giant Typographic Poster](docs/nahled.gif)](https://vibemaker.cz/clanek/typo-art-postery/)
+
 [English](README.md)
 
 Vizuální prompt, který uživatele provede 5bodovým kreativním briefem a sestaví přesný anglický prompt pro generování celostránkových plakátů ve stylu Giant Typographic se zachováním přesné české či jiné diakritiky.

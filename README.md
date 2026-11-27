@@ -1,5 +1,9 @@
 # Smart Prompt: Giant Typographic Poster Art Director
 
+> Article and context on Vibemaker: [Giant Typographic Poster Art Director](https://vibemaker.cz/clanek/typo-art-postery/)
+
+[![Giant Typographic Poster Art Director](docs/nahled.gif)](https://vibemaker.cz/clanek/typo-art-postery/)
+
 [Česky](README.cs.md)
 
 A visual-direction prompt that guides users through a 5-question creative brief and builds a full-bleed English image-generation prompt for Giant Typographic double-exposure posters while preserving exact non-English diacritics.
